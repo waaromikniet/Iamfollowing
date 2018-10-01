@@ -1,5 +1,5 @@
 # Iamfollowing
-Backup off https://archive.codeplex.com/?p=iamfollowing
+Backup off https://iamfollowing.codeplex.com/
 
 Works with SharePoint 2013, 2016 on-prem or with O365 / SharePoint Online
 
