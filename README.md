@@ -8,3 +8,7 @@ A more detailed description about the Following Feature can be found on my blog:
 
 You get a JSON result set with information which documents, persons and sites the user fired the query is following.
 Using this JSON result and some jQuery magic we can generate a WebPart containing this information in a list view or in METRO style
+
+![following1](following1.png)
+
+![following2](following2.png)
